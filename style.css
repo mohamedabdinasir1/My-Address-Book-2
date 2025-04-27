@@ -45,3 +45,15 @@
     border-color: var(--primary);
     outline: none;
   }
+  .form-section button {
+    background-color: var(--primary);
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .form-section button:hover {
+    background-color:steelblue;
+  }
