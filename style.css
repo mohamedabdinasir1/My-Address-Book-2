@@ -142,3 +142,6 @@
     cursor: pointer;
     transition: background-color 0.2s;
   }
+  #close-modal:hover {
+    background-color: red;
+  }
