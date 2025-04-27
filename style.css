@@ -23,3 +23,12 @@
     margin-bottom: 20px;
     color: var(--primary);
   }
+ /* Form section */
+ .form-section {
+    background: var(--card-bg);
+    padding: 25px;
+    max-width: 400px;
+    margin: 0 auto 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
