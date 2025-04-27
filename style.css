@@ -57,3 +57,8 @@
   .form-section button:hover {
     background-color:steelblue;
   }
+   /* Contact list */
+   .list-section {
+    max-width: 600px;
+    margin: 0 auto;
+  }
