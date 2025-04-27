@@ -1,0 +1,9 @@
+:root {
+    --primary:black;
+    --secondary:forestgreen;
+    --accent: red;
+    --bg: aqua;
+    --card-bg: white;
+    --text: black;
+    --muted: black;
+  }
