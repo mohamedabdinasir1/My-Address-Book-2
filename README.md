@@ -1,4 +1,4 @@
-# My Address Book
+# My Address Book 2
 
 Welcome to My Address Book, a simple web application for creating, viewing, and managing contacts. This project demonstrates the use of JavaScript constructors and prototypes for business logic, test-driven development (TDD) with Jest, and a modern, responsive UI.
 
