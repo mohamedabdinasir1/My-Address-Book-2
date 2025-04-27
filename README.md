@@ -235,3 +235,6 @@ Open a pull request.
 #### link
 https://github.com/mohamedabdinasir1/ADDRESS-BOOK
 
+#### LICENCE
+MOHAMED ABDINASIR HASHI
+
