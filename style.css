@@ -123,3 +123,22 @@
     display: none;
   }
   
+  .modal-content h2 {
+    margin-bottom: 15px;
+    color: var(--primary);
+  }
+  
+  .modal-content p {
+    margin-bottom: 10px;
+  }
+  #close-modal {
+    display: block;
+    margin: 15px auto 0;
+    padding: 8px 16px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
