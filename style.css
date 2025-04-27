@@ -41,3 +41,7 @@
     border: 1px solid var(--muted);
     font-size: 1rem;
   }
+  .form-section input:focus {
+    border-color: var(--primary);
+    outline: none;
+  }
